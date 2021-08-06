@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi you!!!
 
 * 🖥 I'm distributed-system development engineer based in Shenzhen, China.
 * 🔍 I'm currently working for Sensetime Smart City Group.
