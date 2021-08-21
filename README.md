@@ -35,6 +35,6 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=amazingchow.amazingchow" alt="visitors"/>
 </p>
 
-** The best knowledge you might not miss it**
+### The best knowledge you might not miss it
 
 * [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
