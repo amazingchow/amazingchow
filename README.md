@@ -5,7 +5,7 @@
 * 💼 Previously, I have graduated from HUST EE, and got a master's degree.
 * 🧐 I'm Interested in distributed-system and raspberry pi. Recently focus on distributed-storage-system.
 
-**🌈 Languages and Tools:**
+**🌈 Languages and tools:**
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="40" height="40"/>
@@ -25,7 +25,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/>
 </p>
   
-**📫 How to Reach me:**
+**📫 How to reach me:**
 
 * :iphone: 15527011768
 * :email: jianzhou42@163.com
