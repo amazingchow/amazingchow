@@ -3,7 +3,7 @@
 * 🖥 I'm a distributed-system development engineer based in Shenzhen, China.
 * 🔍 I'm currently working for Sensetime Smart City Group.
 * 💼 Previously, I have graduated from HUST EE, and got a master's degree.
-* 🧐 I'm interested in distributed-system and raspberry pi. Recently focus on distributed-storage-system.
+* 🧐 I'm interested in distributed-system and blockchain. Recently focus on cosmos.
 
 **🌈 Languages and tools:**
 
