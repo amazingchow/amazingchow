@@ -1,9 +1,9 @@
 ### 👋 Hi you!!!
 
-* 🖥 I'm a distributed-system development engineer based in Shenzhen, China.
-* 🔍 I'm currently working for Sensetime Smart City Group.
+* 🖥 I'm a backend development engineer based in Shenzhen, China.
+* 🔍 I'm currently working for Blockchain and Web 3.0.
 * 💼 Previously, I have graduated from HUST EE, and got a master's degree.
-* 🧐 I'm interested in distributed-system and blockchain. Recently focus on cosmos.
+* 🧐 I'm interested in distributed-system and blockchain. Recently focus on smart contract.
 
 **🌈 Languages and tools:**
 
@@ -12,23 +12,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="python" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="c" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="rust" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/>
 </p>
   
 **📫 How to reach me:**
 
-* :iphone: 15527011768
-* :email: jianzhou42@163.com
+* :email: jianzhou42@163.com && summychou@gmail.com
 
 <p align="left">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=amazingchow.amazingchow" alt="visitors"/>
