@@ -1,9 +1,9 @@
 ### 👋 Hi you!!!
 
 * 🖥 I'm a backend development engineer based in Shenzhen, China.
-* 🔍 I'm currently working for Blockchain and Web 3.0.
+* 🔍 I'm currently working for AIGC product.
 * 💼 Previously, I have graduated from HUST EE, and got a master's degree.
-* 🧐 I'm interested in distributed-system and blockchain. Recently focus on smart contract.
+* 🧐 I'm interested in distributed-system and mirco-service. Recently focus on a fancy social product.
 
 **🌈 Languages and tools:**
 
