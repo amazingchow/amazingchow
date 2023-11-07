@@ -1,9 +1,9 @@
 ### 👋 Hi you!!!
 
 * 🖥 I'm a backend development engineer based in Shenzhen, China.
-* 🔍 I'm currently working for AIGC product.
+* 🔍 I'm currently working for LLM products.
 * 💼 Previously, I have graduated from HUST EE, and got a master's degree.
-* 🧐 I'm interested in distributed-system and mirco-service. Recently focus on a fancy social product.
+* 🧐 I'm also interested in distributed-system and mirco-service. Recently focus on a fancy AI product.
 
 **🌈 Languages and tools:**
 
