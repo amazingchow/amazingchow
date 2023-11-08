@@ -36,4 +36,14 @@
 ### My dev metrics
 
 <!--START_SECTION:waka-->
+
+```python
+From: 06 November 2023 - To: 07 November 2023
+
+Total Time: 1 hr 14 mins
+
+Go      1 hr 9 mins     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀   93.59 %
+Other   0 secs          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.40 %
+```
+
 <!--END_SECTION:waka-->
