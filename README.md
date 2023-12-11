@@ -38,12 +38,12 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 06 November 2023 - To: 07 December 2023
+From: 06 November 2023 - To: 09 December 2023
 
-Total Time: 83 hrs 43 mins
+Total Time: 88 hrs 33 mins
 
-Python            49 hrs 4 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   48.87 %
-Other             16 hrs 42 mins  ⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.63 %
+Python             49 hrs 48 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   46.67 %
+Other              18 hrs 9 mins   ⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.02 %
 ```
 
 <!--END_SECTION:waka-->
