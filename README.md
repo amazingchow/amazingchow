@@ -21,8 +21,7 @@
   
 **📫 How to reach me:**
 
-* :email: jianzhou42@163.com && summychou@gmail.com
-* :twitter: @summychou
+* :email: adamzhouisnothing@gmail.com
 
 <p align="left">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=amazingchow.amazingchow" alt="visitors"/>
