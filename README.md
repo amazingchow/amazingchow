@@ -37,8 +37,6 @@
 * [AI for Beginners @Microsoft](https://microsoft.github.io/AI-For-Beginners/) 💎💎💎
 * [IoT for Beginners @Microsoft](https://microsoft.github.io/IoT-For-Beginners/#/) 💎💎💎
 * [Generative AI for Beginners @Microsoft](https://microsoft.github.io/generative-ai-for-beginners/#/) 💎💎💎
-* 
-
 
 ### My dev metrics
 
