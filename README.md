@@ -29,10 +29,16 @@
 
 ### The best knowledge you might not miss it
 
-* [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
-* [The Utilization Saturation and Errors (USE) Method](https://www.brendangregg.com/usemethod.html)
-* [The Rate Errors and Duration (RED) Method](https://www.weave.works/blog/the-red-method-key-metrics-for-microservices-architecture/)
-* [Semantic Versioning](https://semver.org/)
+* [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying) 💎💎💎💎💎
+* [The Utilization Saturation and Errors (USE) Method](https://www.brendangregg.com/usemethod.html) 💎💎💎💎
+* [The Rate Errors and Duration (RED) Method](https://www.weave.works/blog/the-red-method-key-metrics-for-microservices-architecture/) 💎💎💎💎
+* [Semantic Versioning](https://semver.org/) 💎💎💎
+* [ML for Beginners @Microsoft](https://microsoft.github.io/ML-For-Beginners/#/) 💎💎💎
+* [AI for Beginners @Microsoft](https://microsoft.github.io/AI-For-Beginners/) 💎💎💎
+* [IoT for Beginners @Microsoft](https://microsoft.github.io/IoT-For-Beginners/#/) 💎💎💎
+* [Generative AI for Beginners @Microsoft](https://microsoft.github.io/generative-ai-for-beginners/#/) 💎💎💎
+* 
+
 
 ### My dev metrics
 
