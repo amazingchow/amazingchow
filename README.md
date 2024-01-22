@@ -39,6 +39,7 @@
 * [Generative AI for Beginners @Microsoft](https://microsoft.github.io/generative-ai-for-beginners/#/) 💎💎💎
 * [Practical Deep Learning For Coders](https://course.fast.ai/) 💎💎💎
 * [Mastering GitHub Copilot for AI Paired Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming?tab=readme-ov-file) 💎💎
+* [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction) 💎💎💎
 
 ### My dev metrics
 
