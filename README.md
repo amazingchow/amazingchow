@@ -41,18 +41,3 @@
 * [Practical Deep Learning For Coders](https://course.fast.ai/) 💎💎💎
 * [Mastering GitHub Copilot for AI Paired Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming?tab=readme-ov-file) 💎💎
 * [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction) 💎💎💎
-
-### My dev metrics
-
-<!--START_SECTION:waka-->
-
-```python
-From: 06 November 2023 - To: 11 May 2024
-
-Total Time: 502 hrs 22 mins
-
-Python             256 hrs 6 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.05 %
-Other              92 hrs 35 mins  ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.56 %
-```
-
-<!--END_SECTION:waka-->
