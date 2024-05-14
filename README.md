@@ -33,6 +33,7 @@
 * [Learn how to design large-scale systems](https://github.com/donnemartin/system-design-primer) 💎💎💎💎💎
 * [The Utilization Saturation and Errors (USE) Method](https://www.brendangregg.com/usemethod.html) 💎💎💎💎
 * [The Rate Errors and Duration (RED) Method](https://www.weave.works/blog/the-red-method-key-metrics-for-microservices-architecture/) 💎💎💎💎
+* [Three articles on the memory model by Russ Cox](https://research.swtch.com/mm?continueFlag=3b6b60adee6402ae7371a2f20ead9c5f) 💎💎💎💎
 * [Semantic Versioning](https://semver.org/) 💎💎💎
 * [ML for Beginners @Microsoft](https://microsoft.github.io/ML-For-Beginners/#/) 💎💎💎
 * [AI for Beginners @Microsoft](https://microsoft.github.io/AI-For-Beginners/) 💎💎💎
