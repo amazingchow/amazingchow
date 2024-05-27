@@ -24,7 +24,7 @@
   
 **📫 How to reach me:**
 
-* :email: adamzhouisnothing@gmail.com
+* :email: summychou@gmail.com
 
 <p align="left">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=amazingchow.amazingchow" alt="visitors"/>
