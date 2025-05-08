@@ -43,6 +43,7 @@
 * [AI for Beginners @Microsoft](https://microsoft.github.io/AI-For-Beginners/) 💎💎💎
 * [IoT for Beginners @Microsoft](https://microsoft.github.io/IoT-For-Beginners/#/) 💎💎💎
 * [Generative AI for Beginners @Microsoft](https://microsoft.github.io/generative-ai-for-beginners/#/) 💎💎💎
+* [AI Agents for Beginners @Microsoft](https://microsoft.github.io/ai-agents-for-beginners/#/) 💎💎💎
 * [Practical Deep Learning For Coders](https://course.fast.ai/) 💎💎💎
 * [Mastering GitHub Copilot for AI Paired Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming?tab=readme-ov-file) 💎💎
 * [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction) 💎💎💎
