@@ -1,11 +1,16 @@
-### 👋 Hi you!!!
+### 👋 Hi there, I'm Adam!
 
-* 🖥 I'm a backend development engineer based in Shenzhen, China.
-* 🔍 I'm currently working for LLM products.
-* 💼 Previously, I have graduated from HUST EE, and got a master's degree.
-* 🧐 I'm also interested in distributed-system and mirco-service. Recently focus on a fancy AI product.
+**Backend Engineer | Distributed Systems Enthusiast | AI Practitioner**
 
-**🌈 Languages and tools:**
+Based in **Shenzhen, China**, I am a seasoned Backend Engineer with a Master's degree in Electrical Engineering from **HUST**. My passion lies in bridging the gap between robust distributed infrastructure and cutting-edge AI applications.
+
+*   🔭 **Currently working on:** Engineering scalable architectures for **Large Language Model (LLM)** products.
+*   🌱 **Focus areas:** Distributed Systems, Microservices, and Generative AI solutions.
+*   🎓 **Education:** M.S. in EE from Huazhong University of Science and Technology (HUST).
+
+---
+
+### 🛠 Languages & Tools
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="40" height="40"/>
@@ -21,16 +26,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" alt="cloudflare" width="40" height="40"/>
 </p>
-  
-**📫 How to reach me:**
 
-* :email: summychou@gmail.com
+### 📚 Curated Resources (Must-Reads)
 
-<p align="left">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=amazingchow.amazingchow" alt="visitors"/>
-</p>
-
-### The best knowledge you might not miss it
+<details>
+<summary>Click to expand my reading list on System Design & AI</summary>
 
 * [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying) 💎💎💎💎💎
 * [Learn how to design large-scale systems](https://github.com/donnemartin/system-design-primer) 💎💎💎💎💎
@@ -47,3 +47,12 @@
 * [Practical Deep Learning For Coders](https://course.fast.ai/) 💎💎💎
 * [Mastering GitHub Copilot for AI Paired Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming?tab=readme-ov-file) 💎💎
 * [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction) 💎💎💎
+
+</details>
+
+---
+
+**📫 Connect with me:**
+*   📧 Email: [summychou@gmail.com](mailto:summychou@gmail.com)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=amazingchow.amazingchow)
